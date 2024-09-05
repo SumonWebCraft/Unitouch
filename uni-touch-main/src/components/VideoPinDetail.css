@@ -1,0 +1,261 @@
+.logo{
+    font-size: 27px;
+    font-weight: bold;
+    color: white;
+    margin-left: auto;
+}
+
+.likeBtn{
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.likeText{
+    font-size: 17px;
+    margin-top: 17px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
+
+.userName{
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 27px;
+    margin-left: 10px;
+}
+
+.commentText{
+    margin-left: 50px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.commentDelete{
+    background-color: red !important;
+    margin-top: 2%;
+    color: white;
+}
+
+.share-btn{
+    position: relative;
+    border: none;
+    background: #fff;
+    color: #ff7d7d;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    font-size: 30px;
+    display: flex;
+    cursor: pointer;
+    
+   margin-top: 150%;
+    
+    
+}
+
+.share-options{
+   
+    bottom: 50%;
+    left: 50%;
+    width: 20%;
+    height: 20%;
+   
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+   
+    padding: 20px;
+    font-family: 'roboto';
+   
+}
+
+.title1{
+  
+    font-size: 20px;
+    text-transform: capitalize;
+    border-bottom: 1px solid red;
+    width: fit-content;
+    padding: 0 20px 3px 0;
+}
+
+.social-media{
+   
+    width: 250px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 10px 0;
+}
+
+.social-media-btn{
+    border: none;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: #000;
+    color: #fff;
+    line-height: 50px;
+    font-size: 25px;
+    cursor: pointer;
+    margin: 0 5px;
+    
+}
+
+.icon2{
+    margin-top: 25% !important;
+    margin-left: 25% !important;
+}
+
+.social-media-btn:nth-child(1){
+    background: #FFA654;
+}
+
+.social-media-btn:nth-child(2){
+    background: #25D366;
+}
+
+.social-media-btn:nth-child(3){
+    background: #E4405F;
+}
+
+.social-media-btn:nth-child(4){
+    background: #1DA1F2;
+}
+
+.social-media-btn:nth-child(5){
+    background: #1877F2;
+}
+.logo{
+    font-size: 27px;
+    font-weight: bold;
+    color: white;
+    margin-left: auto;
+}
+
+.likeBtn{
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.likeText{
+    font-size: 17px;
+    margin-top: 17px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
+
+.userName{
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 27px;
+    margin-left: 10px;
+}
+
+.commentText{
+    margin-left: 50px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.commentDelete{
+    background-color: red !important;
+    margin-top: 2%;
+    color: white;
+}
+
+.share-btn{
+    position: relative;
+    border: none;
+    background: #fff;
+    color: #ff7d7d;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    font-size: 30px;
+    display: flex;
+    cursor: pointer;
+    
+   margin-top: 150%;
+    
+    
+}
+
+.share-options{
+   
+    bottom: 50%;
+    left: 50%;
+    width: 20%;
+    height: 20%;
+   
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+   
+    padding: 20px;
+    font-family: 'roboto';
+   
+}
+
+.title1{
+  
+    font-size: 20px;
+    text-transform: capitalize;
+    border-bottom: 1px solid red;
+    width: fit-content;
+    padding: 0 20px 3px 0;
+}
+
+.social-media{
+   
+    width: 250px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 10px 0;
+}
+
+.social-media-btn{
+    border: none;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: #000;
+    color: #fff;
+    line-height: 50px;
+    font-size: 25px;
+    cursor: pointer;
+    margin: 0 5px;
+    
+}
+
+.icon2{
+    margin-top: 25% !important;
+    margin-left: 25% !important;
+}
+
+.social-media-btn:nth-child(1){
+    background: #FFA654;
+}
+
+.social-media-btn:nth-child(2){
+    background: #25D366;
+}
+
+.social-media-btn:nth-child(3){
+    background: #E4405F;
+}
+
+.social-media-btn:nth-child(4){
+    background: #1DA1F2;
+}
+
+.social-media-btn:nth-child(5){
+    background: #1877F2;
+}
+
